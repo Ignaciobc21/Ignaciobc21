@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Comunicaciones Móviles y Espaciales en la Universi
 
 ## Sobre mí
 
-- Me interesan las comunicaciones móviles y por satélite, los datos y la automatización.
+- Me interesan las comunicaciones móviles y por satélite, los sistemas de comunicaciones móviles, sistemas de radar, el diseño de antenas, los datos y la automatización.
 
 ## Contacto
 
