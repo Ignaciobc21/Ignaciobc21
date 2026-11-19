@@ -9,3 +9,4 @@ Estudiante de Ingeniería en Comunicaciones Móviles y Espaciales en la Universi
 ## Contacto
 
 - GitHub: [@Ignaciobc21](https://github.com/Ignaciobc21)
+- LinkedIn: [Ignacio Blanco Casado](https://www.linkedin.com/in/ignacioblancocasado/)
